@@ -84,14 +84,29 @@ footer {
 footer a {
   color: white;
 }
+footer nav ul {
+  padding-left: 0;
+}
+footer nav ul li {
+  float: left;
+  margin-right: 1em;
+  list-style-type: none;
+}
 
 /* page-specific styles */
-#awards h3 { font-weight:700; }
-#awards h3 a { color:var(--dark-blue);}
-#awards li a { color:var(--red);}
+#awards main h3 { font-weight:700; }
+#awards main h3 a { color:var(--dark-blue);}
+#awards main li a { color:var(--red);}
 
 #resume h4 {
   margin-top: -7px;
   font-weight: 700;
   font-size: 1.25em;
+}
+
+@media (max-width: 800px) {
+  footer nav ul li {
+    float: none;
+    margin-right: 0;
+  }
 }
