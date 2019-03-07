@@ -75,6 +75,10 @@ main {
   margin: 0 auto;
 }
 
+ul {
+  margin-top: -.5em;
+}
+
 footer {
   background-color: var(--light-blue);
   color: white;
@@ -94,19 +98,20 @@ footer nav ul li {
 }
 
 /* page-specific styles */
-#awards main h3 { font-weight:700; }
-#awards main h3 a { color:var(--dark-blue);}
-#awards main li a { color:var(--red);}
-
-#resume main h3 a { font-weight: 900; }
-
-#resume h4 {
+#resume h4, #awards h4 {
   margin-top: -7px;
   font-weight: 700;
   font-size: 1.25em;
 }
 
+#awards main h5 { font-weight: normal; }
+#awards main h5 a { color:var(--dark-blue);}
+#awards main li a { color:var(--red);}
+
 @media (max-width: 800px) {
+  footer {
+    text-align: left;
+  }
   footer nav ul li {
     float: none;
     margin-right: 0;
@@ -114,4 +119,33 @@ footer nav ul li {
   h1 { margin-top: .7em; }
   main { font-size: .7em; }
   main p, main li { font-size: 1.4em; }
+}
+
+@media print {
+  body {
+    background-color: white;
+    color: black;
+  }
+  main {
+    max-width: none;
+  }
+  a {
+    color: black;
+  }
+  main a[href]:after {
+    content: " (" attr(href) ")";
+    word-wrap: break-word;
+    font-style: italic;
+  }
+  main h1 a {
+    text-decoration: none;
+  }
+  main h1 a[href]:after {
+    content: "";
+    word-wrap: normal;
+    font-style: normal;
+  }
+  footer nav {
+    display: none;
+  }
 }

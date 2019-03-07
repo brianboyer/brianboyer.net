@@ -3,3 +3,4 @@
 - homepage links point nowhere currently
 - finish the colophon
 - write a readme
+- print styles (could links become footnotes?)

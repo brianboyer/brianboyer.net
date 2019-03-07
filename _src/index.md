@@ -12,7 +12,7 @@ Now that we’ve got that out of the way...
 
 ## What's up?
 
-I’ve worn a lot of hats in my [career](/resume/): technologist, journalist, designer, data-wrangler, project manager, and product owner, to name a few. Those are very different jobs, but the thru-line — and the secret to my success — is that I care deeply about teams.
+I’ve worn a lot of hats in my career: technologist, journalist, designer, data-wrangler, project manager, and product owner, to name a few. Those are very different jobs, but the thru-line — and the secret to my success — is that I care deeply about teams.
 
 And teams kick ass when we...
 - Work selflessly — not tirelessly — and care for each other.
@@ -28,7 +28,7 @@ I’m currently on the hunt for kind, thoughtful, mission-driven people doing gr
 Here are some of the things I can do for you!
 
 ### Building membership-powered organizations
-I’ve spent the last two years building successful membership programs for [Denverite](https://denveritec.com), [Billy Penn](https://billypenn.com) and [The Incline](https://theincline.com). It’s tempting to think of this as a technical problem — CRM, payment processing, etc. But while the technical stuff can be a challenge, the real challenge is that your organization must learn to act differently. (link TK?) I can help your team understand the high-level philosophy, as well as all the details you’ve got to get right — from the roles of your team and your approach to your work, to the nitty-gritty of product design, vendor and tool selection, email marketing, and metrics.
+I’ve spent the last two years building successful membership programs for [Denverite](https://denverite.com), [Billy Penn](https://billypenn.com) and [The Incline](https://theincline.com). It’s tempting to think of this as a technical problem — CRM, payment processing, etc. But while the technical stuff can be a challenge, the real challenge is that your organization must learn to act differently. (link TK?) I can help your team understand the high-level philosophy, as well as all the details you’ve got to get right — from the roles of your team and your approach to your work, to the nitty-gritty of product design, vendor and tool selection, email marketing, and metrics.
 
 ### Inclusive team-building
 Building a team is one of the great privileges in life. And with great privilege comes great responsibility. So, congratulations! You worked your ass off to get the budget, and now it’s time to do the *real* work. I can help you recruit, hire, and lead the team that will best serve your audience’s needs — one that is build inclusively, represents your audience, and works together to solve hard problems. Happy, productive teams are rarely built by luck. You’ve got to be intentional at every step of the process, and change as your team grows and learns.
