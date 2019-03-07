@@ -24,3 +24,4 @@ I also tweet rather frequently at [@brianboyer](https://twitter.com/brianboyer).
 - How We Work, an NPR Visuals manifesto, on the [NPR Visuals team blog](http://blog.apps.npr.org/2014/06/04/how-we-work.html)
 - Lots of posts about maps on the old [Chicago Tribune News Apps team blog](https://newsapps.wordpress.com/author/bboyer/)
 - hackerjournalist.net, a pretty stale [Wordpress blog](https://hackerjournalist.net/)
+- Data Journalism Handbook, an [actual book](https://datajournalismhandbook.org/handbook/one)!

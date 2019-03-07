@@ -111,4 +111,7 @@ footer nav ul li {
     float: none;
     margin-right: 0;
   }
+  h1 { margin-top: .7em; }
+  main { font-size: .7em; }
+  main p, main li { font-size: 1.4em; }
 }
