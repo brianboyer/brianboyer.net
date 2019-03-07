@@ -98,6 +98,8 @@ footer nav ul li {
 #awards main h3 a { color:var(--dark-blue);}
 #awards main li a { color:var(--red);}
 
+#resume main h3 a { font-weight: 900; }
+
 #resume h4 {
   margin-top: -7px;
   font-weight: 700;
