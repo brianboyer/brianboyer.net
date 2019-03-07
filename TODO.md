@@ -1,0 +1,3 @@
+- twitter/slack preview card
+- validate the site.webmanifest thing on a phone
+- homepage links point nowhere currently

@@ -1,0 +1,10 @@
+{
+  "title": "Title TK",
+  "name": "Name TK",
+  "url": "https://brianboyer.net",
+  "description": "Description TK",
+  "author": {
+    "name": "Brian Boyer",
+    "email": "brian@hackerjournalist.net"
+  }
+}

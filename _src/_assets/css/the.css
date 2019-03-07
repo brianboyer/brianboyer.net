@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:700,900|Merriweather:400,400i,700');
+
+/* via https://type-scale.com/?size=16&scale=1.250&text=A%20Visual%20Type%20Scale&font=Lato&fontweight=900&bodyfont=Merriweather&bodyfontweight=400&lineheight=1.55&backgroundcolor=white&fontcolor=%23333&preview=false */
+
+html {font-size: 16px;}
+
+body {
+  background-color: white;
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  line-height: 1.55;
+  color: #333;
+}
+
+p {margin-bottom: 1.25em;}
+
+h1, h2, h3, h4, h5 {
+  margin: 2.75rem 0 1rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  line-height: 1.15;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3.052em;
+}
+
+h2 {font-size: 2.441em;}
+
+h3 {font-size: 1.953em;}
+
+h4 {font-size: 1.563em;}
+
+h5 {font-size: 1.25em;}
+
+small, .text_small {font-size: 0.8em;}
+
+/* the rest */
+
+html {
+  --light-blue: #2ca1db;
+  --dark-blue: #112047;
+  --red: #f44323;
+  --tan: #dfb78e;
+  --grey: #ccd5dd;
+  --light-grey: #f0f2f5;
+}
+
+body {
+  margin: 0;
+  border-top: .5em solid var(--light-blue);
+  background: var(--light-grey);
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--dark-blue);
+}
+
+a {
+  color: var(--red);
+  font-weight: 700;
+}
+
+img { max-width: 100%; }
+svg { max-height: 100%; }
+
+main {
+  padding: 5%;
+  max-width: 40em;
+  margin: 0 auto;
+}
+
+footer {
+  background-color: var(--light-blue);
+  color: white;
+  text-align: right;
+  padding: 2% 5%;
+}
+footer a {
+  color: white;
+}
+
+/* page-specific styles */
+#awards h3 { font-weight:700; }
+#awards h3 a { color:var(--dark-blue);}
+#awards li a { color:var(--red);}
+
+#resume h4 {
+  margin-top: -7px;
+  font-weight: 700;
+  font-size: 1.25em;
+}
