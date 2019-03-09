@@ -1,5 +1,4 @@
 - test the site.webmanifest thing on a phone
-- test the social card on slack
 - test the social card on facebook
 - test schema.org markup on google
 - finish the colophon
