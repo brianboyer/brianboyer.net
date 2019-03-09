@@ -1,5 +1,3 @@
-- finish the colophon
-- change the writing page?
-- write a readme
+- edit the tech section again
 - browser testing
 - update data.url to brianboyer.net
