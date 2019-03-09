@@ -127,7 +127,7 @@ A package, including [Fugitives from justice: Roman Catholic priests](http://med
 - [Tribune Company 2010](http://www.prnewswire.com/news-releases/tribune-announces-outstanding-employee-award-winners-for-2010-114302224.html): Outstanding Employee Award
 - Jones-Beck Awards 2009: Innovation, Chicago Tribune
 
-### The internship
+### The Internship
 #### ProPublica (2009)
 
 ##### [ChangeTracker](https://www.propublica.org/people/brian-boyer)

@@ -1,3 +1,3 @@
-- edit the tech section again
 - browser testing
+- verify all links -- awards, especially
 - update data.url to brianboyer.net

@@ -41,7 +41,7 @@ There’s a thing about products that should be obvious, but that we regularly f
 We'll kill our pre-conceived notions (and internal politics) and come up with a product that works for your *audience first*. Also — this is fun!
 
 ### Leading your technology efforts
-I've led teams of developers and designers for most of my career, at startups and well-established companies. (Check my [resume](/resume/) for the details.) We've built products, analyzed and visualized data, created [award-winning](/awards) visual journalism, and lots more.
+I've led teams of developers and designers for most of my career, at startups and well-established companies. (Check my [resume](/resume/) for the details.) We've built products, analyzed and visualized data, created [award-winning](/awards/) visual journalism, and lots more.
 
 I can help you consider your product/design/technical goals and support a happy team in achieving them!
 

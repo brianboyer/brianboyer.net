@@ -5,15 +5,17 @@ description: "I'm an experienced leader, technologist and award-winning journali
 ---
 
 # This is [Brian Boyer](/)'s résumé.
-I began my career as a technologist and became a leader of software teams. With the help of a Knight Foundation grant, I found a new career in journalism. It’s been nearly a decade since I made the switch, and I believe my unusual experience has provided helpful perspectives towards the many challenges we face.
+I began my career as a technologist and became a leader of software teams. But I wanted to do more to help people. So, I ditched the tech startups and found a new career in journalism.
+
+It’s been a decade since I made the switch, and I believe my unusual experience has provided a helpful perspective on the many challenges we face.
 
 ## Work
 
 ### VP, Product and People
 #### [Spirited Media](https://spiritedmedia.com/) (2017-2019)
-Spirited Media is creating a new model for sustainable city journalism. Shortly after joining Spirited, we began the process of launching membership, which I’ve been leading for the last year. This encompasses everything from coordinating our messaging, working with vendors, measuring success, and leading the design and development of our website and emails and every other audience touchpoint.
+Spirited Media created a new model for sustainable city journalism. Shortly after joining, I led the launch of membership programs in our three cities — including everything from coordinating our messaging, measuring success, and leading the design and development of our website, emails, and every other audience touchpoint.
 
-Because we’re a scrappy young company, I also lead a wide range of HR and operations efforts, including (but not limited to) company-wide goal setting, measuring success, employee on- and off-boarding, IT and OPSEC, knowledge management, and otherwise supporting team management and recruiting efforts.
+Since we were a scrappy young company, I also led a wide range of HR and operations efforts, including goal setting, measuring success, employee on- and off-boarding, IT and OPSEC, knowledge management, and otherwise supporting team management and success.
 
 ### Senior Supervising Editor, Visuals
 #### [NPR](http://npr.org/) (2012-2016)
