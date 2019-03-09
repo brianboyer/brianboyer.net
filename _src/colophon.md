@@ -1,6 +1,7 @@
 ---
 layout: base.njk
-summary: "Summary TK."
+title: "Colophon"
+description: "How I built this happy little website."
 ---
 # How [Brian Boyer](/) built this website
 - [Eleventy](https://www.11ty.io/)

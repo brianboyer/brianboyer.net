@@ -1,11 +1,12 @@
 ---
 layout: base.njk
-summary: "Summary TK."
+title: "Writing & Talks"
+description: "I write words. I also speak. Here are some recent favorites."
 ---
 
 # [Brian Boyer](/) writes words.
 
-I also speak. Here are a few recent favorites.
+I also speak. Here are some recent favorites.
 
 - Show your love, Newsgeist 2018. [Video](https://www.youtube.com/watch?v=e5IpYBldzHo)
 - Roles and goals: Explicit is better than implicit, SRCCON 2017.<br/>[Transcript](https://2017.srccon.org/transcripts/SRCCON2017-goals-roles/) | [Slides](https://docs.google.com/presentation/d/1pPN33oy_iLS4BlZkVselMLvBXtZnyWPVbrD6flJC080/edit?usp=sharing) | [Links and worksheets](https://etherpad.opennews.org/p/SRCCON2017-goals-roles)

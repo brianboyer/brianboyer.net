@@ -1,6 +1,7 @@
 ---
 layout: base.njk
-summary: "Summary TK."
+title: "Hi!"
+description: "I’m on the hunt for kind, thoughtful, mission-driven people doing great work. And a place where I can make the world a little better."
 ---
 # Hi, I'm Brian Boyer.
 

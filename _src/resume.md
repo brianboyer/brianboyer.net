@@ -1,6 +1,7 @@
 ---
 layout: base.njk
-summary: "Summary TK."
+title: "Resume"
+description: "I'm an experienced leader, technologist and award-winning journalist."
 ---
 
 # This is [Brian Boyer](/)'s résumé.

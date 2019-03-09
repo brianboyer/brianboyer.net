@@ -1,12 +1,12 @@
 ---
 layout: base.njk
-summary: "Summary TK."
-body_id: "awards"
+title: "Awards"
+description: "I don't care much about awards. But in case you're interested..."
 ---
 
 # [Brian Boyer](/) won awards.
 
-I don’t care much for awards. They measure if you’ve impressed your peers, not your audience. But in case you're interested...
+I don’t care much about awards. They measure if you’ve impressed your peers, not your audience. But in case you're interested...
 
 ## The list
 
