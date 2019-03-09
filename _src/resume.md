@@ -21,7 +21,7 @@ Since we were a scrappy young company, I also led a wide range of HR and operati
 #### [NPR](http://npr.org/) (2012-2016)
 I was hired to build a newsroom development team, but we soon merged with the multimedia team to form Visuals. We made all kinds of special things on the web, including NPR’s elections, books and music projects, as well as bespoke story presentations — all the while serving as the newsroom’s service desks for photo, video, data and graphics.
 
-We believed strongly in user-centered design, evidence-driven decision making, and [sharing what we learned](http://blog.apps.npr.org/).
+We believed strongly in user-centered design, evidence-driven decision making, and [sharing what we learned](https://blog.apps.npr.org/blog/).
 
 ### Grant Recipient and Leader
 #### [The Carebot](http://thecarebot.github.io/) (2016) and [PANDA Project](http://pandaproject.net/) (2011)
@@ -31,7 +31,7 @@ PANDA is a newsroom data library, also built with help from a Knight Foundation 
 
 ### News Applications Editor
 #### [Chicago Tribune](http://chicagotribune.com/) (2009-2012)
-Chicago Tribune hired me to start their first newsroom development team. We built the Tribune’s elections, crime and schools products, and worked with reporters on data journalism and investigations. We designed and built a number of news properties, including [ChicagoNow](http://www.chicagonow.com/), [TribLocal](https://web.archive.org/web/20101231031341/http://triblocal.com/) (now defunct) and Hoy Chicago. Our team became the model for many newsroom development shops: releasing open-source code, [blogging about our methods](http://blog.apps.chicagotribune.com/), and working for the newsroom — not the IT department.
+Chicago Tribune hired me to start their first newsroom development team. We built the Tribune’s elections, crime and schools products, and worked with reporters on data journalism and investigations. We designed and built a number of news properties, including [ChicagoNow](http://www.chicagonow.com/), [TribLocal](https://web.archive.org/web/20101231031341/http://triblocal.com/) (now defunct) and Hoy Chicago. Our team became the model for many newsroom development shops: releasing open-source code, [blogging about our methods](https://newsapps.wordpress.com/), and working for the newsroom — not the IT department.
 
 ### Intern
 #### [ProPublica](http://www.propublica.org/) (2009)
