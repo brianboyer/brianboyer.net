@@ -1,2 +1,4 @@
 - set up SSL
-- set up _redirects file
+- set up redirects file
+- submit to google
+- edit twitter card

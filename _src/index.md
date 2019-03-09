@@ -13,7 +13,7 @@ Currently, I'm available for consulting, contract work, and (maybe!) full-time e
 
 Does this sound like you? I’d love to learn more about your team, and your vision for the future. (If you're already sold, [just scroll to the bottom](#contact)!)
 
-## Why would you hire me?
+## Why hire me?
 
 I’ve worn a lot of hats in my career: technologist, journalist, designer, data-wrangler, project manager, and product owner, to name a few. Those are very different jobs, but the through-line — and secret to my success — is that I care deeply about teams.
 
