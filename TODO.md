@@ -1,2 +1,2 @@
-- verify all links -- awards, especially
-- update data.url to brianboyer.net
+- set up SSL
+- set up _redirects file
