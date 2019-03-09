@@ -5,7 +5,7 @@ description: "I’m on the hunt for kind, thoughtful, mission-driven people doin
 ---
 # Hi, I'm Brian Boyer.
 
-I'm an [experienced](/resume/) leader, technologist, [writer](/writing/) and [award-winning](/awards/) journalist.
+I'm an [experienced](/resume/) leader, technologist, [speaker](/writing-talks/) and [award-winning](/awards/) journalist.
 
 And I’m on the hunt for kind, thoughtful, mission-driven people doing great work. And a place where I can use the breadth of my experience to make the world a little better.
 
