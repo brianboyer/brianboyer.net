@@ -42,6 +42,7 @@ html {
   --light-blue: #2ca1db;
   --dark-blue: #112047;
   --red: #f44323;
+  --dark-red: #c2260a;
   --tan: #dfb78e;
   --grey: #ccd5dd;
   --light-grey: #f0f2f5;
@@ -62,11 +63,12 @@ h3, h4, h5 {
 }
 
 a {
-  color: var(--red);
+  color: var(--dark-red);
   font-weight: 700;
 }
 
 h1 a {
+  color: var(--red);
   font-weight: 900;
 }
 
@@ -114,7 +116,7 @@ footer nav ul li {
 
 #awards main h5 { font-weight: normal; }
 #awards main h5 a { color:var(--dark-blue);}
-#awards main li a { color:var(--red);}
+#awards main li a { color:var(--dark-red);}
 
 @media (max-width: 800px) {
   footer {
