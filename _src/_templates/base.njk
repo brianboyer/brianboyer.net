@@ -6,7 +6,11 @@
 
 		<link rel="canonical" href="{{ data.url }}">
 
+		{% if page.fileSlug == '' %}
+		<title>{{ title }}</title>
+		{% else %}
 		<title>{{ title }} — {{ data.name }}</title>
+		{% endif %}
 		<meta name="description" content="{{ description }}">
 
 		<meta name="twitter:card" content="summary_large_image">
@@ -16,6 +20,7 @@
 		<meta name="twitter:title" content="{{ title }}">
 		<meta property="og:title" content="{{ title }}">
 		<meta property="og:url" content="{{ data.url }}">
+		<meta property="og:type" content="website" />
 
 		<script type="application/ld+json">
 		  {
