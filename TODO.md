@@ -1,6 +1,8 @@
-- twitter/slack preview card
-- validate the site.webmanifest thing on a phone
-- homepage links point nowhere currently
+- test the site.webmanifest thing on a phone
+- test the social card on twitter
+- test the social card on slack
+- test the social card on facebook
+- test schema.org markup on google
 - finish the colophon
 - write a readme
-- print styles (could links become footnotes?)
+- browser testing

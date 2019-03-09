@@ -34,6 +34,9 @@ I’ve spent the last two years building successful membership programs for [Den
 ### Developing a user-centered product strategy
 There’s a thing about products that should be obvious, but that we regularly fail at. Say it with me: “We design products to serve the needs of our audience.” I can help you better understand those needs, facilitate design exercises with your team, and develop a product strategy. We'll kill our pre-conceived notions (and internal politics) and come up with a product that works for your *audience first*. And that might be a niche newsletter, a task-focused website or visualization, or, hell, we might come up with an entirely new brand. Also, this is pretty fun!
 
+### Leading your technology efforts
+I've led teams of developers and designers for most of my career. We've built products, analyzed and visualized data, presented visual journalism, and lots more. I can help you think about your product/design/technical goals and lead a happy team to achieve them!
+
 ### Setting goals and measuring success
 Like the person said, [“What gets measured, gets done.”](https://thecarebot.github.io/Why-should-I-Carebot/) You must be extremely intentional in what you measure because people will make poor choices — and waste a lot of time and money! — when their metrics don’t align with their goals. So before you decide what to measure, you must first decide and clearly communicate what you’re trying to achieve. I can help you articulate your goals, design metrics to measure your progress, and implement goal-tracking processes that will aim your team towards a common cause.
 
