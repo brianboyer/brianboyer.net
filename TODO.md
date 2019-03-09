@@ -1,6 +1,5 @@
-- test the site.webmanifest thing on a phone
 - finish the colophon
+- change the writing page?
 - write a readme
 - browser testing
 - update data.url to brianboyer.net
-- add schema.org markup?

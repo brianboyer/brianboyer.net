@@ -5,7 +5,7 @@ description: "I’m on the hunt for kind, thoughtful, mission-driven people doin
 ---
 # Hi, I'm Brian Boyer.
 
-I'm an experienced [leader](/resume/), occasional [writer](/writing/) and [award-winning](/awards/) journalist.
+I'm an [experienced](/resume/) leader, technologist, [writer](/writing/) and [award-winning](/awards/) journalist.
 
 And I’m on the hunt for kind, thoughtful, mission-driven people doing great work. And a place where I can use the breadth of my experience to make the world a little better.
 
@@ -22,10 +22,10 @@ Teams kick ass when we...
 - Question dogma, test our assumptions, and value humility and curiosity.
 - Build an inclusive workplace, and a team that represents our audience.
 - Know our values — *why* we do what we do, not just *what* or *how*.
-- Set goals that align with our mission, communicate them clearly and passionately, prioritize rigorously, and measure success everyday.
+- Set goals that align with our mission, communicate them clearly and passionately, prioritize rigorously, and measure success every day.
 
 ## What can I do for you?
-For the last two years, my job role has been “Product and People.” It’s a lot to explain, but broadly speaking, I’ve been working to build a membership-driven news business, *while at the same time*, professionalizing the operations of a fast-growing company.
+For the last two years, my job role has been “Product and People.” It’s a lot to explain, but broadly speaking, I’ve been working to build a membership-driven news product, *while at the same time*, professionalizing the operations of a fast-growing company.
 
 So, I'm sort of a generalist, but with areas of deep expertise. Here's a handful of the things that we might work on together.
 
@@ -36,13 +36,10 @@ I’ve spent the last two years building successful membership programs for [Den
 There’s a thing about products that should be obvious, but that we regularly fail at. Say it with me: “We design products to serve the needs of our audience.” I can help you better understand those needs, facilitate design exercises with your team, and develop a product strategy. We'll kill our pre-conceived notions (and internal politics) and come up with a product that works for your *audience first*. And that might be a niche newsletter, a task-focused website or visualization, or, hell, we might come up with an entirely new brand. Also, this is pretty fun!
 
 ### Leading your technology efforts
-I've led teams of developers and designers for most of my career. We've built products, analyzed and visualized data, presented visual journalism, and lots more. I can help you think about your product/design/technical goals and lead a happy team to achieve them!
+I've led teams of developers and designers for most of my career, at startups and well-established companies. (For all the gory details, check my [resume](/resume/).) We've built products, analyzed and visualized data, presented visual journalism, and lots more. I can help you consider your product/design/technical goals and lead a happy team to achieve them!
 
 ### Setting goals and measuring success
 Like the person said, [“What gets measured, gets done.”](https://thecarebot.github.io/Why-should-I-Carebot/) You must be extremely intentional in what you measure because people will make poor choices — and waste a lot of time and money! — when their metrics don’t align with their goals. So before you decide what to measure, you must first decide and clearly communicate what you’re trying to achieve. I can help you articulate your goals, design metrics to measure your progress, and implement goal-tracking processes that will aim your team towards a common cause.
-
-### Building a team
-Building a team is one of the great privileges in life. And with great privilege comes great responsibility. So, congratulations! You worked your ass off to get the budget, and now it’s time to do the real work. Happy, productive teams are rarely built by luck! I can help you recruit, hire, and lead the team that will best serve your audience’s needs — one that is built inclusively, represents your audience, and works together to solve hard problems.
 
 ### Implementing processes for happiness and productivity
 Work is hard. But it's often hard for all the wrong reasons. If you've got a great mission and great people, that's great! But if you've got poor process, it doesn't matter. Even the most talented people fail when they're managed poorly. I can help you implement processes that will reduce friction, increase productivity, and create a happier and more inclusive workplace.
