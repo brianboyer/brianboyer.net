@@ -22,20 +22,6 @@
 		<meta property="og:url" content="{{ data.url }}">
 		<meta property="og:type" content="website" />
 
-		<script type="application/ld+json">
-		  {
-		    "@context": "http://schema.org",
-		    "@type": "Organization",
-		    "url": "{{ data.url }}",
-		    "title": "{{ title }}",
-		    "author_name": "{{ data.author.name }}",
-		    "logo": "{{ data.url }}/_assets/img/social-card.png",
-		    "sameAs" : [
-		      "https://twitter.com/brianboyer"
-		    ]
-		  }
-		</script>
-
 		<meta name="twitter:description" content="{{ description }}">
 		<meta property="og:description" content="{{ description }}">
 
@@ -43,15 +29,15 @@
 		<meta name="twitter:image:alt" content="{{ data.social_card_alt }}">
 		<meta property="og:image" content="{{ data.url }}/_assets/img/social-card.png">
 		<meta property="og:image:alt" content="{{ data.social_card_alt }}">
-
-		<meta name="author" content="{{ data.author.name }}">
+		<meta name="author" content="{{ data.author }}">
 
 		<link rel="stylesheet" type="text/css" href="/_assets/css/the.css">
 
+		<meta name="apple-mobile-web-app-title" content="{{ data.name }}">
 		<link rel="apple-touch-icon" sizes="180x180" href="/_assets/img/apple-touch-icon.png">
+
 		<link rel="icon" type="image/png" sizes="32x32" href="/_assets/img/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="/_assets/img/favicon-16x16.png">
-		<link rel="manifest" href="/site.webmanifest">
 	</head>
 	<body id="{{ page.fileSlug }}">
 		<main>

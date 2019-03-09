@@ -1,7 +1,6 @@
 - test the site.webmanifest thing on a phone
-- test the social card on facebook
-- test schema.org markup on google
 - finish the colophon
 - write a readme
 - browser testing
 - update data.url to brianboyer.net
+- add schema.org markup?
