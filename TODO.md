@@ -6,3 +6,4 @@
 - finish the colophon
 - write a readme
 - browser testing
+- update data.url to brianboyer.net
