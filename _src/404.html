@@ -5,7 +5,9 @@ description: "Nope."
 permalink: 404.html
 ---
 <h1>You found <a href="/">Brian Boyer</a>'s 404.</h1>
-<figure>
-  <img src="/_assets/img/uhura-nope.gif" alt="Uhura says nope."/>
-  <figcaption>Thanks, <a href="https://sweartrek.tumblr.com/post/157483323488/looking-at-todays-headlines-like">Swear Trek</a>.</figcaption>
-</figure>
+{% set figure = {
+  src: "/_assets/img/uhura-nope.gif",
+  alt: "Uhura says nope.",
+  caption: "Thanks, <a href=\"https://sweartrek.tumblr.com/post/157483323488/looking-at-todays-headlines-like\">Swear Trek</a>."
+} %}
+{% include "figure.njk" %}

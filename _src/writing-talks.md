@@ -6,7 +6,14 @@ description: "I write words. I also speak. Here are some recent favorites."
 
 # [Brian Boyer](/) speaks & writes.
 
-I speak and write about process, product, journalism and the many jobs of a manager. Here are some favorites.
+I speak and write and lead workshops on process, product, journalism and the jobs of a manager. Here are some favorites.
+
+{% set figure = {
+  src: "/_assets/img/chicas.jpg",
+  alt: "Brian Boyer leading a Chicas Poderosas workship in 2013.",
+  caption: "Leading a <a href=\"https://chicaspoderosas.org\">Chicas Poderosas</a> workship in 2013. Photo by <a href=\"https://twitter.com/fiocotoseg\">Fiorella Coto Segnini</a>"
+} %}
+{% include "figure.njk" %}
 
 ## Speaking
 [Show your love](https://www.youtube.com/watch?v=e5IpYBldzHo), on building membership-powered newsrooms
