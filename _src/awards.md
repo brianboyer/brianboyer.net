@@ -17,7 +17,7 @@ I don’t care much about awards. They measure if you’ve impressed your peers,
   src: "/_assets/img/emmy.jpg",
   alt: "Brian Boyer on stage at the Emmy awards.",
   caption: "Photo by <a href=\"https://twitter.com/kainazamaria\">Kainaz Amaria</a>."
-} %}
+} %}{#_#}
 {% include "figure.njk" %}
 
 ## The list

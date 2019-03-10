@@ -12,7 +12,7 @@ I speak and write and lead workshops on process, product, journalism and the job
   src: "/_assets/img/chicas.jpg",
   alt: "Brian Boyer leading a Chicas Poderosas workship in 2013.",
   caption: "Leading a <a href=\"https://chicaspoderosas.org\">Chicas Poderosas</a> workship in 2013. Photo by <a href=\"https://twitter.com/fiocotoseg\">Fiorella Coto Segnini</a>"
-} %}
+} %}{#_#}
 {% include "figure.njk" %}
 
 ## Speaking
