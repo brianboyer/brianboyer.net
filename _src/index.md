@@ -11,11 +11,11 @@ And I’m on the hunt for kind, thoughtful, mission-driven people doing great wo
 
 Currently, I'm available for consulting, contract work, and (maybe!) full-time employment. I’m happy to come to you, but full-time work must be remote-friendly or based in beautiful Chicago, Illinois.
 
-Does this sound like you? I’d love to learn more about your team, and your vision for the future. (If you're already sold, [just scroll to the bottom](#contact)!)
+Does this sound like you? I’d love to learn more about your team, and your vision for the future. (Already sold? [Jump to the end](#contact)!)
 
 ## Why hire me?
 
-I’ve worn a lot of hats in my career: technologist, journalist, designer, data-wrangler, project manager, and product owner, to name a few. Those are very different jobs, but the through-line — and secret to my success — is that I care deeply about teams.
+I’ve worn a lot of hats in my [career](/resume/): technologist, journalist, designer, data-wrangler, project manager, and product owner, to name a few. Those are very different jobs, but the through-line — and secret to my success — is that I care deeply about teams.
 
 Teams kick ass when we...
 - Work selflessly — not tirelessly — and care for each other.

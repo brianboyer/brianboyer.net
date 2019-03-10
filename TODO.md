@@ -1,5 +1,3 @@
-- 404 https://www.11ty.io/docs/quicktips/not-found/
-- edit twitter card
 - edit new why/teams list
 - open repo
 - submit to google
