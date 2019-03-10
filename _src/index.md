@@ -45,7 +45,7 @@ I've led teams of developers and designers for most of my career, at startups an
 
 I can help you consider your product/design/technical goals and support a happy team in achieving them!
 
-### Set goals and measuring success
+### Set goals and measure success
 Like the person said, "[What gets measured, gets done.](https://thecarebot.github.io/Why-should-I-Carebot/)" If the metrics don’t align with your goals, your team will make poor choices. So, you must be extremely intentional when deciding what to measure.
 
 And before that, you must first decide, and clearly communicate, what you’re trying to achieve. I can help you articulate your goals, design metrics, and implement goal-tracking processes that will aim your team towards a common cause.
