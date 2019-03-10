@@ -1,3 +1,2 @@
-- edit new why/teams list
 - open repo
 - submit to google
