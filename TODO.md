@@ -2,3 +2,4 @@
 - set up redirects file
 - submit to google
 - edit twitter card
+- edit new why/teams list
