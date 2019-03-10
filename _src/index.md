@@ -30,31 +30,31 @@ For the last two years, my job role has been “Product and People.” It’s a 
 
 So, I'm sort of a generalist, but with areas of deep expertise. Here's a handful of the things that we might work on together.
 
-### Building membership-powered organizations
-I’ve spent the last two years building successful membership programs for [Denverite](https://denverite.com), [Billy Penn](https://billypenn.com) and [The Incline](https://theincline.com). It’s tempting to think of this as a technical problem — CRM, payment processing, etc. That stuff can be tricky, but the real challenge is that your organization must learn to act differently.
+### Build a membership-powered organization
+I’ve spent the last two years building successful membership programs for [Denverite](https://denverite.com), [Billy Penn](https://billypenn.com) and [The Incline](https://theincline.com). It's tempting to think of this as a *technical* problem — CRMs and payment processing can be tricky — but it's really a *human* problem. The real challenge is that your organization must learn to act differently.
 
 I can help you and your team understand the high-level philosophy you must embrace to succeed at membership, as well as all the details you’ve got to get right — from the work you produce to the nitty-gritty details of product design, vendor and tool selection, email marketing, and metrics.
 
-### Developing a user-centered product strategy
-There’s a thing about products that should be obvious, but that we regularly fail at. Say it with me: “We design products to serve the needs of our audience.” I can help you better understand those needs, facilitate design exercises with your team, and develop a product strategy.
+### Develop a user-centered product strategy
+There’s a thing about products that should be obvious, but that we regularly fail at. **We design products to serve the needs of our audience.** I can help you better understand those needs, facilitate design exercises with your team, and develop a product strategy.
 
-We'll kill our pre-conceived notions (and internal politics) and come up with a product that works for your *audience first*. Also — this is fun!
+We'll kill our pre-conceived notions (and internal politics) and come up with a product that works for your audience first. Also — this is fun!
 
-### Leading your technology efforts
+### Lead your technology efforts
 I've led teams of developers and designers for most of my career, at startups and well-established companies. (Check my [resume](/resume/) for the details.) We've built products, analyzed and visualized data, created [award-winning](/awards/) visual journalism, and lots more.
 
 I can help you consider your product/design/technical goals and support a happy team in achieving them!
 
-### Setting goals and measuring success
+### Set goals and measuring success
 Like the person said, "[What gets measured, gets done.](https://thecarebot.github.io/Why-should-I-Carebot/)" If the metrics don’t align with your goals, your team will make poor choices. So, you must be extremely intentional when deciding what to measure.
 
 And before that, you must first decide, and clearly communicate, what you’re trying to achieve. I can help you articulate your goals, design metrics, and implement goal-tracking processes that will aim your team towards a common cause.
 
-### Implementing processes for happiness and productivity
+### Implement processes for happiness and productivity
 Work is hard. But it's usually hard for *all the wrong reasons*. If you've got a great mission and great people, that's great! But if you've got poor process, it doesn't matter. Even the most talented people fail when they're managed poorly. I can help you implement processes that will reduce friction, increase productivity, and create a happier and more inclusive workplace.
 
-### Smelling bullshit
-I’ve evaluated hundreds (thousands?) of tools, most of which were bullshit. As a hiring manager, awards judge, grant judge and vendor sniffer, I’ve developed a keen sense for what’s crap, and what tools and teams know are great at what they do.
+### Smell bullshit
+I’ve evaluated hundreds (thousands?) of tools, most of which were bullshit. As a hiring manager, awards judge, grant judge and vendor sniffer, I’ve developed a keen sense for what’s crap, and what tools (and teams!) are great at what they do.
 
 If you need help deciding on a technology stack, evaluating a RFP, hiring a consulting firm, or awarding grantees, hit me up. I can help you understand the problem you’re trying to solve, and choose the best path to solve it.
 

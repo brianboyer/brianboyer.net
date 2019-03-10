@@ -56,9 +56,9 @@ Lante was a dot-com consultancy that [went belly-up](http://articles.chicagotrib
 ## Education
 
 ### Master of Science: Journalism
-#### Medill School of Journalism, Northwestern University (2008)
+#### Medill School of Journalism, Northwestern University
 I was one of the first two students enrolled in a [Knight-funded program to bring experienced software developers into journalism](https://web.archive.org/web/20170628143539/http://www.medill.northwestern.edu/admissions/financial-aid/knight-foundation-scholarship.html). At Medill, I learned the craft of reporting, and for our final project, prototyped a set of alternative commenting models for online news — some of which are now commonplace.
 
 ### Bachelor of Science: Computer Science, Minor: Technology and Management
-#### University of Illinois at Urbana-Champaign (1996-2000)
+#### University of Illinois at Urbana-Champaign
 I studied computer science at UIUC, but spent most of my time in the ceramics studio. Unfortunately, engineers were forbidden from minoring in art, so I instead studied in the brand-new Technology and Management program, a sort of a mini-MBA for undergraduates.
