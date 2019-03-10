@@ -1,4 +1,5 @@
-- submit to google
+- 404 https://www.11ty.io/docs/quicktips/not-found/
 - edit twitter card
 - edit new why/teams list
-- 404 https://www.11ty.io/docs/quicktips/not-found/
+- open repo
+- submit to google

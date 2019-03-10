@@ -116,8 +116,10 @@ footer nav ul li {
 }
 
 #awards main h5 { font-weight: normal; }
-#awards main h5 a { color:var(--dark-blue);}
-#awards main li a { color:var(--dark-red);}
+#awards main h5 a { color:var(--dark-blue); }
+#awards main li a { color:var(--dark-red); }
+#fourzerofour figure { margin:0; }
+#fourzerofour figure img { width:100%; }
 
 @media (max-width: 800px) {
   footer {
