@@ -1,5 +1,4 @@
-- set up SSL
-- set up redirects file
 - submit to google
 - edit twitter card
 - edit new why/teams list
+- 404 https://www.11ty.io/docs/quicktips/not-found/
