@@ -1,3 +1,0 @@
-- check in google search console
-- open repo
-- submit to google
