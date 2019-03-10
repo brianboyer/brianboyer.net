@@ -31,13 +31,16 @@
 		<meta property="og:image:alt" content="{{ data.social_card_alt }}">
 		<meta name="author" content="{{ data.author }}">
 
-		<link rel="stylesheet" type="text/css" href="/_assets/css/the.css">
-
 		<meta name="apple-mobile-web-app-title" content="{{ data.name }}">
 		<link rel="apple-touch-icon" sizes="180x180" href="/_assets/img/apple-touch-icon.png">
 
 		<link rel="icon" type="image/png" sizes="32x32" href="/_assets/img/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="/_assets/img/favicon-16x16.png">
+
+		{% set css %}{% include "the.css" %}{% endset %}
+		<style type="text/css">
+			{{ css | safe }}
+		</style>
 	</head>
 
 	{% if page.fileSlug == '404' %}
