@@ -48,13 +48,13 @@ I can help you consider your product/design/technical goals and support a happy 
 ### Set goals and measure success
 Like the person said, "[What gets measured, gets done.](https://thecarebot.github.io/Why-should-I-Carebot/)" If the metrics don’t align with your goals, your team will make poor choices. So, you must be extremely intentional when deciding what to measure.
 
-And before that, you must first decide, and clearly communicate, what you’re trying to achieve. I can help you articulate your goals, design metrics, and implement goal-tracking processes that will aim your team towards a common cause.
+And before that, you must first decide — and clearly communicate — what you’re trying to achieve. I can help you articulate your goals, design metrics, and implement goal-tracking processes that will aim your team towards a common cause.
 
 ### Implement processes for happiness and productivity
 Work is hard. But it's usually hard for *all the wrong reasons*. If you've got a great mission and great people, that's great! But if you've got poor process, it doesn't matter. Even the most talented people fail when they're managed poorly. I can help you implement processes that will reduce friction, increase productivity, and create a happier and more inclusive workplace.
 
 ### Smell bullshit
-I’ve evaluated hundreds (thousands?) of tools, most of which were bullshit. As a hiring manager, awards judge, grant judge and vendor sniffer, I’ve developed a keen sense for what’s crap, and what tools (and teams!) are great at what they do.
+I’ve evaluated hundreds (thousands?) of tools, most of which were bullshit. As a hiring manager, awards judge, grant judge and vendor sniffer, I’ve developed a keen sense for what’s crap, and what tools (and teams!) are awesome.
 
 If you need help deciding on a technology stack, evaluating a RFP, hiring a consulting firm, or awarding grantees, hit me up. I can help you understand the problem you’re trying to solve, and choose the best path to solve it.
 
