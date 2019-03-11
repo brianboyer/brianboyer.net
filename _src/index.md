@@ -35,7 +35,9 @@ So, I'm sort of a generalist, but with areas of deep expertise. Here's a handful
 ### Build a membership-powered organization
 I’ve spent the last two years building successful membership programs for [Denverite](https://denverite.com), [Billy Penn](https://billypenn.com) and [The Incline](https://theincline.com). It's tempting to think of this as a *technical* problem — CRMs and payment processing can be tricky — but it's really a *human* problem. The real challenge is that your organization must learn to act differently.
 
-I can teach you how to succeed at membership — from the values you must embrace, to how you communicate those values to your audience. Plus: All the nitty-gritty details of product design, vendors and tools, email marketing, and measuring success.
+And, crucially, *online* membership is really different from how you'd do it on, say, the radio or TV.
+
+I can teach you how to succeed at membership on the internet — from the values you must embrace, to how you communicate those values to your audience. Plus: All the nitty-gritty details of product design, vendors and tools, email marketing, and measuring success.
 
 ### Develop a user-centered product strategy
 There’s a thing about products that should be obvious, but that we regularly fail at. **We design products to serve the needs of our audience.** I can help you better understand those needs, facilitate design exercises with your team, and develop a product strategy.
