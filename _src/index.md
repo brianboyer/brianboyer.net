@@ -20,7 +20,7 @@ Read on to learn what I can do for you.
 I’ve worn a lot of hats in my [career](/resume/): technologist, journalist, designer, data-wrangler, project manager, and product owner, to name a few. Those are very different jobs, but the through-line — and secret to my success — is that I care deeply about teams.
 
 Teams kick ass when we...
-- Work selflessly — not tirelessly — and care for each other.
+- Work selflessly (not tirelessly) and care for each other.
 - Question dogma, test our assumptions, and value humility and curiosity.
 - Build an inclusive workplace, and a team that represents our audience.
 - Know our values — *why* we do what we do, not just *what* or *how*.
