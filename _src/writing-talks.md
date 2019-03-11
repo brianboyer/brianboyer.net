@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Writing & Talks"
-description: "I write words. I also speak. Here are some recent favorites."
+description: "I speak and write and lead workshops on process, product, journalism and the jobs of a manager. Here are some favorites."
 ---
 
 # [Brian Boyer](/) speaks & writes.
