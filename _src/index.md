@@ -23,7 +23,7 @@ Teams kick ass when we...
 - Build an inclusive workplace, and a team that represents our audience.
 - Know our values — *why* we do what we do, not just *what* or *how*.
 - Set goals that align with our mission, communicate them clearly and passionately, prioritize rigorously, and measure success every day.
-- Lead as servants — to help our team succeed, not just boss them around.
+- Lead as servants. Leadership is not control — it's support.
 
 ## What can I do for you?
 For the last two years, my job role has been “Product and People.” It’s a lot to explain, but broadly speaking, I’ve been working to build and support a membership-driven news business, *while at the same time*, professionalizing the operations of a fast-growing company.
