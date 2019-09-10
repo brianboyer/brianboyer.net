@@ -13,7 +13,7 @@ It’s been a decade since I made the switch, and I believe my unusual experienc
 
 ### Chief Product Officer, Interim
 #### [Hearken](https://www.wearehearken.com) (2019)
-Hearken asked me to join their team for the summer of 2019. I implemented product and project management best practices, role- and goal-setting tools, and coached the team on inter- and intra-team communications – the stuff you've gotta do to have a happy and healthy team.
+Hearken asked me to join their team for the summer of 2019. I implemented product and project management best practices, role and goal setting tools, and coached the team on inter- and intra-team communications – the stuff you've gotta do to have a happy and healthy team.
 
 I interviewed current and potential customers, established a product roadmap based on their needs, and lead the implementation of a robust system for tracking analytics and measuring the success of what we built. Fun!
 
