@@ -7,9 +7,7 @@ description: "I’m looking for kind, thoughtful, mission-driven people who are 
 
 I'm an [experienced](/resume/) leader, technologist, [speaker](/writing-talks/) and [award-winning](/awards/) journalist.
 
-And I’m looking for kind, thoughtful, mission-driven people who are working to make the world better.
-
-Need advice, training or a temporary teammate? I'll come to you! But full-time work must be remote-friendly, or based in beautiful Chicago, Illinois.
+And I’m looking for kind, thoughtful, mission-driven people who are working to make the world better. Need advice, training or a temporary teammate? I'll come to you! But full-time work must be remote-friendly.
 
 Read on to learn what I can do for you.
 
