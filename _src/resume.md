@@ -11,6 +11,14 @@ It’s been a decade since I made the switch, and I believe my unusual experienc
 
 ## Work
 
+### Consultant and coach
+#### Independent (2019-present)
+I've developed and taught a masters course in analytics for the [NewStart](https://newstart.wvu.edu/) program at WVU, led CMS migrations with [Reveal](https://revealnews.org/) and [VTDigger](https://vtdigger.org/), coached local startup newsrooms with [LION Publishiers](https://www.lionpublishers.com/) and the [National Trust for Local News](https://www.nationaltrustforlocalnews.org/), and helped design the Campaigns feature of [Newspack](https://newspack.com/). And I've had the opportunity to help with product, analytics, and meembership efforts a lot of other small, usually local, usually non-profit newsrooms. It's been a fun few years.
+
+### Steering Committee Member
+#### [News Product Alliance](https://newsproduct.org/) (2020-2021)
+We're building the first professional community for product people working in the news. Join us!
+
 ### Chief Product Officer, Interim
 #### [Hearken](https://www.wearehearken.com) (2019)
 Hearken asked me to join their team for the summer of 2019. I implemented product and project management best practices, role and goal setting tools, and coached the team on inter- and intra-team communications – the stuff you've gotta do to have a happy and healthy team.

@@ -7,7 +7,7 @@ description: "I’m looking for kind, thoughtful, mission-driven people who are 
 
 I'm an [experienced](/resume/) leader, technologist, [speaker](/writing-talks/) and [award-winning](/awards/) journalist.
 
-And I’m looking for kind, thoughtful, mission-driven people who are working to make the world better. Need advice, training or a temporary teammate? I'll come to you! But full-time work must be remote-friendly.
+And I’m looking for kind, thoughtful, mission-driven people who are working to make the world better. Need advice, training or a temporary teammate? I'll come to you! But I'm a dad most of the time, so I max out at half-time work, and will be remote.
 
 Read on to learn what I can do for you.
 
@@ -26,12 +26,12 @@ Teams kick ass when we...
 - Lead as servants. Leadership is not control — it's support.
 
 ## What can I do for you?
-For the last two years, my job role has been “Product and People.” It’s a lot to explain, but broadly speaking, I’ve helped build and support a membership-driven news business – and professionalized the operations of a fast-growing company.
+For the last few years, I've been an independent consultant, helping news organizations by building better products and processes, usually in the interest of succeeding at membership. Sometimes I'm a coach, other times I get more hands-on.
 
-So, I'm sort of a generalist, but with areas of deep expertise. Here's a handful of the things that we might work on together.
+I'm sort of a generalist, but with areas of deep expertise. Here's a handful of the things that we might work on together.
 
 ### Build a membership-powered organization
-I’ve spent the last two years building successful membership programs for [Denverite](https://denverite.com), [Billy Penn](https://billypenn.com) and [The Incline](https://theincline.com). It's tempting to think of this as a *technical* problem — CRMs and payment processing can be tricky — but it's really a *human* problem. The real challenge is that your organization must learn to act differently.
+I spent two years building successful membership programs for [Denverite](https://denverite.com), [Billy Penn](https://billypenn.com) and [The Incline](https://theincline.com). And more recently as a consultant/coach, I've helped many other newsrooms in their membership efforts. It's tempting to think of this as a *technical* problem — CRMs and payment processing can be tricky — but it's really a *human* problem. The real challenge is that your organization must learn to act differently.
 
 And, crucially, *online* membership is really different from how you'd do it on, say, the radio or TV.
 
@@ -66,5 +66,5 @@ If you’re a news organization, non-profit, or other mission-driven organizatio
 ### Consulting & contract work
 We could do a one-day workshop, a multi-week consulting project, or part-time contract work. Let's talk through your needs first and we can design something that works for your team, and your budget.
 
-### A full-time leadership role
-You might be seeking a Head of Product, VP Audience, Membership Director, General Manager, CTO/COO, Managing Editor, or Publisher. Regardless of the title, I'll lead your team to happiness and success.
+### A part-time leadership role
+You might be seeking a Head of Product, VP Audience, Membership Director, General Manager, CTO/COO, Managing Editor, or Publisher. But I'm only available part-time, cuz the rest of my day I'm a dad.
