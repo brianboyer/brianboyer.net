@@ -11,6 +11,10 @@ It’s been a decade since I made the switch, and I believe my unusual experienc
 
 ## Work
 
+### Chief Product Officer
+#### [Chicago Reader](https://chicagoreader.com/) (2024-present)
+It's awesome to get to work on a product that has been so important to me for so much of my life, and where we all love Chicago. Feels like home.
+
 ### Consultant and coach
 #### Independent (2019-present)
 I've developed and taught a masters course in analytics for the [NewStart](https://newstart.wvu.edu/) program at WVU, led CMS migrations with [Reveal](https://revealnews.org/) and [VTDigger](https://vtdigger.org/), coached local startup newsrooms with [LION Publishiers](https://www.lionpublishers.com/) and the [National Trust for Local News](https://www.nationaltrustforlocalnews.org/), and helped design the Campaigns feature of [Newspack](https://newspack.com/). And I've had the opportunity to help with product, analytics, and meembership efforts a lot of other small, usually local, usually non-profit newsrooms. It's been a fun few years.
