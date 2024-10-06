@@ -17,7 +17,7 @@ It's awesome to get to work on a product that has been so important to me for so
 
 ### Consultant and coach
 #### Independent (2019-present)
-I've developed and taught a masters course in analytics for the [NewStart](https://newstart.wvu.edu/) program at WVU, led CMS migrations with [Reveal](https://revealnews.org/) and [VTDigger](https://vtdigger.org/), coached local startup newsrooms with [LION Publishiers](https://www.lionpublishers.com/) and the [National Trust for Local News](https://www.nationaltrustforlocalnews.org/), and helped design the Campaigns feature of [Newspack](https://newspack.com/). And I've had the opportunity to help with product, analytics, and meembership efforts a lot of other small, usually local, usually non-profit newsrooms. It's been a fun few years.
+I've developed and taught a masters course in analytics for the [NewStart](https://newstart.wvu.edu/) program at WVU, led CMS migrations with [Reveal](https://revealnews.org/) and [VTDigger](https://vtdigger.org/), coached local startup newsrooms with [LION Publishers](https://www.lionpublishers.com/) and the [National Trust for Local News](https://www.nationaltrustforlocalnews.org/), and helped design the Campaigns feature of [Newspack](https://newspack.com/). And I've had the opportunity to help with product, analytics, and membership efforts at many other small, usually local, usually non-profit newsrooms. It's been a fun few years.
 
 ### Steering Committee Member
 #### [News Product Alliance](https://newsproduct.org/) (2020-2021)
