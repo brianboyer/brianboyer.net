@@ -12,8 +12,8 @@ It’s been a decade since I made the switch, and I believe my unusual experienc
 ## Work
 
 ### Chief Product Officer
-#### [Chicago Reader](https://chicagoreader.com/) (2024-present)
-It's awesome to get to work on a product that has been so important to me for so much of my life, and where we all love Chicago. Feels like home.
+#### [Chicago Reader](https://chicagoreader.com/) (2024-2025)
+It was awesome to work on a product that was so important to me for so much of my life, and where we all loved Chicago. Felt like home.
 
 ### Consultant and coach
 #### Independent (2019-present)
