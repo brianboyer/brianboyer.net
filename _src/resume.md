@@ -7,7 +7,7 @@ description: "I'm an experienced leader, technologist and award-winning journali
 # This is [Brian Boyer](/)'s résumé.
 I began my career as a technologist and became a leader of software teams. But I wanted to do more to help people. So, I ditched the tech startups and found a new career in journalism.
 
-It’s been a decade since I made the switch, and I believe my unusual experience has provided a helpful perspective on the many challenges we face.
+It’s been more than a decade since I made the switch, and I believe my unusual experience has provided a helpful perspective on the many challenges we face.
 
 ## Work
 
