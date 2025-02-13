@@ -36,6 +36,8 @@ Roles & Goals: Explicit is better than implicit.<br/>
 <br/>*ISOJ 2012*
 
 ## Writing
+OpenNews Source: [Memberkit 1.0: Upgrade your analytics and build a data-powered membership program](https://source.opennews.org/articles/memberkit-upgrade-your-analytics/)
+
 Design at NPR: [Why Should I Carebot?](https://npr.design/why-should-i-carebot-593221f7b8ee) and [That One Free Tool](https://npr.design/that-one-free-tool-ab585438696d)
 
 [Rules are awesome](https://medium.com/@brianboyer/rules-are-awesome-4874307fe14f) and [GTFO](https://medium.com/@brianboyer/gtfo-16877e0d7e8e) (Because our behavior defines what's normal!)
