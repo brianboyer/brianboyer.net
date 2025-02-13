@@ -52,4 +52,3 @@ Design at NPR: [Why Should I Carebot?](https://npr.design/why-should-i-carebot-5
 - Lots of posts about maps on the old [Chicago Tribune News Apps team blog](https://newsapps.wordpress.com/author/bboyer/)
 - My old blog, [hackerjournalist.net](https://hackerjournalist.net/).
 - Data Journalism Handbook, an [actual book](https://datajournalismhandbook.org/handbook/one)!
-- I also tweet rather frequently at [@brianboyer](https://twitter.com/brianboyer).
