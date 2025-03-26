@@ -1,3 +1,5 @@
 .DS_Store
 _site
 TODO.md
+node_modules
+package-lock.json

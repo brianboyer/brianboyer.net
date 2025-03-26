@@ -1,10 +1,10 @@
 {
   "name": "brianboyer.net",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is Brian Boyer's website.",
   "scripts": {
-    "build": "eleventy",
-    "watch": "eleventy --watch"
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "url": "https://github.com/brianboyer/brianboyer.net/issues"
   },
   "homepage": "https://brianboyer.net",
-  "devDependencies": {
-    "@11ty/eleventy": "^0.7.1"
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
   }
 }
