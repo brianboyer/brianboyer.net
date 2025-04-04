@@ -1,17 +1,17 @@
 ---
 layout: base.njk
-title: "Writing & Talks"
+title: "Writing/Talks"
 description: "I speak and write and lead workshops on process, product, journalism and the jobs of a manager. Here are some favorites."
 ---
 
-# [Brian Boyer](/) speaks & writes.
+# Writing/Talks
 
 I speak and write and lead workshops on process, product, journalism and the jobs of a manager. Here are some favorites.
 
 {% set figure = {
   src: "/_assets/img/chicas.jpg",
   alt: "Brian Boyer leading a Chicas Poderosas workshop in 2013.",
-  caption: "Leading a <a href=\"https://chicaspoderosas.org\">Chicas Poderosas</a> workship in 2013. Photo by <a href=\"https://twitter.com/fiocotoseg\">Fiorella Coto Segnini</a>"
+  caption: "Leading a <a href=\"https://web.archive.org/web/20250209190335/https://www.chicaspoderosas.org/\">Chicas Poderosas</a> workship in 2013. Photo by <a href=\"https://es.linkedin.com/in/fiocoto/en\">Fiorella Coto Segnini</a>"
 } %}{#_#}
 {% include "figure.njk" %}
 
@@ -29,7 +29,7 @@ Roles & Goals: Explicit is better than implicit.<br/>
 [Our impact is empathy](https://vimeo.com/156777701)
 <br/>*Frank Gathering 2016*
 
-[If it doesn't work on mobile, it doesn't work.](https://www.youtube.com/watch?v=18BhZIN_WRA)
+[If it doesn’t work on mobile, it doesn’t work.](https://www.youtube.com/watch?v=18BhZIN_WRA)
 <br/>*Coding for the Future, WVU 2013*
 
 [Craft is useful!](https://vimeo.com/44747892)
@@ -40,7 +40,7 @@ OpenNews Source: [Memberkit 1.0: Upgrade your analytics and build a data-powered
 
 Design at NPR: [Why Should I Carebot?](https://npr.design/why-should-i-carebot-593221f7b8ee) and [That One Free Tool](https://npr.design/that-one-free-tool-ab585438696d)
 
-[Rules are awesome](https://medium.com/@brianboyer/rules-are-awesome-4874307fe14f) and [GTFO](https://medium.com/@brianboyer/gtfo-16877e0d7e8e) (Because our behavior defines what's normal!)
+[Rules are awesome](https://medium.com/@brianboyer/rules-are-awesome-4874307fe14f) and [GTFO](https://medium.com/@brianboyer/gtfo-16877e0d7e8e) (Because our behavior defines what’s normal!)
 
 [How We Work](http://blog.apps.npr.org/2014/06/04/how-we-work.html), an NPR Visuals manifesto
 

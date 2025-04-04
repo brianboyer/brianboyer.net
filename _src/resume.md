@@ -1,10 +1,10 @@
 ---
 layout: base.njk
-title: "Resume"
-description: "I'm an experienced leader, technologist and award-winning journalist."
+title: "Résumé"
+description: "I’m an experienced leader, technologist and award-winning journalist."
 ---
 
-# This is [Brian Boyer](/)'s résumé.
+# Résumé
 I began my career as a technologist and became a leader of software teams. But I wanted to do more to help people. So, I ditched the tech startups and found a new career in journalism.
 
 It’s been more than a decade since I made the switch, and I believe my unusual experience has provided a helpful perspective on the many challenges we face.
@@ -17,15 +17,15 @@ It was awesome to work on a product that was so important to me for so much of m
 
 ### Consultant and coach
 #### Independent (2019-present)
-I've developed and taught a masters course in analytics for the [NewStart](https://newstart.wvu.edu/) program at WVU, led CMS migrations with [Reveal](https://revealnews.org/) and [VTDigger](https://vtdigger.org/), coached local startup newsrooms with [LION Publishers](https://www.lionpublishers.com/) and the [National Trust for Local News](https://www.nationaltrustforlocalnews.org/), and helped design the Campaigns feature of [Newspack](https://newspack.com/). And I've had the opportunity to help with product, analytics, and membership efforts at many other small, usually local, usually non-profit newsrooms. It's been a fun few years.
+I’ve developed and taught a masters course in analytics for the [NewStart](https://newstart.wvu.edu/) program at WVU, led CMS migrations with [Reveal](https://revealnews.org/) and [VTDigger](https://vtdigger.org/), coached local startup newsrooms with [LION Publishers](https://www.lionpublishers.com/) and the [National Trust for Local News](https://www.nationaltrustforlocalnews.org/), and helped design the Campaigns feature of [Newspack](https://newspack.com/). And I’ve had the opportunity to help with product, analytics, and membership efforts at many other small, usually local, usually non-profit newsrooms. It’s been a fun few years.
 
 ### Steering Committee Member
 #### [News Product Alliance](https://newsproduct.org/) (2020-2021)
-We're building the first professional community for product people working in the news. Join us!
+We’re building the first professional community for product people working in the news. Join us!
 
 ### Chief Product Officer, Interim
 #### [Hearken](https://www.wearehearken.com) (2019)
-Hearken asked me to join their team for the summer of 2019. I implemented product and project management best practices, role and goal setting tools, and coached the team on inter- and intra-team communications – the stuff you've gotta do to have a happy and healthy team.
+Hearken asked me to join their team for the summer of 2019. I implemented product and project management best practices, role and goal setting tools, and coached the team on inter- and intra-team communications – the stuff you’ve gotta do to have a happy and healthy team.
 
 I interviewed current and potential customers, established a product roadmap based on their needs, and lead the implementation of a robust system for tracking analytics and measuring the success of what we built. Fun!
 
@@ -57,7 +57,7 @@ I was the first intern on the news applications team at ProPublica. I helped the
 
 ### Co-Founder, Software Architect
 #### Daixo (2006-2007)
-Daixo was an effort to build an awesome electronic medical records system designed for small, private practices. I led software development and marketing until leaving to pursue my master's degree.
+Daixo was an effort to build an awesome electronic medical records system designed for small, private practices. I led software development and marketing until leaving to pursue my master’s degree.
 
 ### Director of Product Development and Senior Software Architect
 #### [SAVO Group](http://www.savogroup.com/) (2005-2006)
