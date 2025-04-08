@@ -1,70 +1,94 @@
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<link rel="canonical" href="{{ data.url }}">
+    <link rel="canonical" href="{{ data.url }}">
 
-		{% if page.fileSlug == '' %}
-		<title>{{ title }}</title>
-		{% else %}
-		<title>{{ title }} — {{ data.name }}</title>
-		{% endif %}
-		<meta name="description" content="{{ description }}">
+    {% if page.fileSlug == '' %}
+    <title>{{ title }}</title>
+    {% else %}
+    <title>{{ title }} — {{ data.name }}</title>
+    {% endif %}
+    <meta name="description" content="{{ description }}">
+    <meta name="author" content="{{ data.author }}">
 
-		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@brianboyer">
-		<meta name="twitter:creator" content="@brianboyer">
-		<meta property="og:site_name" content="{{ data.name }}">
-		<meta name="twitter:title" content="{{ title }}">
-		<meta property="og:title" content="{{ title }}">
-		<meta property="og:url" content="{{ data.url }}">
-		<meta property="og:type" content="website" />
+    <meta property="og:site_name" content="{{ data.name }}">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:url" content="{{ data.url }}">
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:image" content="{{ data.url }}/_assets/img/social-card.png">
+    <meta property="og:image:alt" content="{{ data.social_card_alt }}">
 
-		<meta name="twitter:description" content="{{ description }}">
-		<meta property="og:description" content="{{ description }}">
+    <meta name="apple-mobile-web-app-title" content="{{ data.name }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="/_assets/img/apple-touch-icon.png">
 
-		<meta name="twitter:image" content="{{ data.url }}/_assets/img/social-card.png">
-		<meta name="twitter:image:alt" content="{{ data.social_card_alt }}">
-		<meta property="og:image" content="{{ data.url }}/_assets/img/social-card.png">
-		<meta property="og:image:alt" content="{{ data.social_card_alt }}">
-		<meta name="author" content="{{ data.author }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="/_assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/_assets/img/favicon-16x16.png">
+    
+    <link rel="manifest" href="/site.webmanifest">
 
-		<meta name="apple-mobile-web-app-title" content="{{ data.name }}">
-		<link rel="apple-touch-icon" sizes="180x180" href="/_assets/img/apple-touch-icon.png">
+    {% set css %}{% include "the.css" %}{% endset %}
+    <style type="text/css">
+      {{ css | safe }}
+    </style>
+  </head>
 
-		<link rel="icon" type="image/png" sizes="32x32" href="/_assets/img/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/_assets/img/favicon-16x16.png">
-
-		{% set css %}{% include "the.css" %}{% endset %}
-		<style type="text/css">
-			{{ css | safe }}
-		</style>
-	</head>
-
-	{% if page.fileSlug == '404' %}
-	<body id="fourzerofour">
-	{% else %}
-	<body id="{{ page.fileSlug }}">
-	{% endif %}
-		<main>
-    	{{ content | safe }}
-			<h2 id="contact">You in?</h2>
-			<p>Let's talk! I’d love to learn more about your team, and your vision for the future.</p>
-			<p><a href="mailto:brian@hackerjournalist.net">brian@hackerjournalist.net</a></p>
-		</main>
-		<footer>
-			<nav>
-				<ul>
-					<li><a href="/">Home</a></li>
-					<li><a href="/resume/">Resume</a></li>
-					<li><a href="/writing-talks/">Writing & Talks</a></li>
-					<li><a href="/awards/">Awards</a></li>
-					<li><a href="/colophon/">Colophon</a></li>
-				</ul>
-			</nav>
-			<p>Copyright 2025, Brian Boyer</p>
-		</footer>
-	</body>
+  {% if page.fileSlug == '' %}
+  <body id="index">
+  {% elif page.fileSlug == '404' %}
+  <body id="fourzerofour">
+  {% else %}
+  <body id="{{ page.fileSlug }}">
+  {% endif %}
+    <header>
+      <nav>
+        <ul>
+          {% if page.fileSlug == '' %}
+          <li>Brian Boyer:</li>
+          {% else %}
+          <li><a href="/">Brian Boyer:</a></li>
+          {% endif %}
+          {% if page.fileSlug == 'writing-talks' %}
+          <li>Writing/talks</li>
+          {% else %}
+          <li><a href="/writing-talks/">Writing/talks</a></li>
+          {% endif %}
+          {% if page.fileSlug == 'resume' %}
+          <li>Résumé</li>
+          {% else %}
+          <li><a href="/resume/">Résumé</a></li>
+          {% endif %}
+          {% if page.fileSlug == 'awards' %}
+          <li>Awards</li>
+          {% else %}
+          <li><a href="/awards/">Awards</a></li>
+          {% endif %}
+          <!-- {% if page.fileSlug == 'projects' %}
+          <li>Projects 🫘</li>
+          {% else %}
+          <li><a href="/projects/">Projects</a> 🫘</li>
+          {% endif %} -->
+        </ul>
+      </nav>
+    </header>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer>
+      <p id="contact">
+        you in? email<br/>
+        <a href="mailto:work@brianboyer.net">work@brianboyer.net</a>
+      </p>
+      <p id="socials">Want more? Find me on <a href="https://bsky.app/profile/brianboyer.bsky.social">Bluesky</a> and <a rel="me" href="https://mastodon.social/@brianboyer">Mastodon</a>.</p>
+      <p id="copyright">
+        © {% year %} Brian Boyer.
+        {% if page.fileSlug != 'colophon' %}
+        <a href="/colophon/">How I built this website.</a>
+        {% endif %}
+      </p>
+    </footer>
+  </body>
 </html>

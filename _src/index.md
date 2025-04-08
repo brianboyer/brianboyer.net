@@ -3,68 +3,30 @@ layout: base.njk
 title: "Hi, I'm Brian Boyer."
 description: "I’m looking for kind, thoughtful, mission-driven people who are working to make the world better."
 ---
-# Hi, I'm Brian Boyer.
+# Let’s work together
 
-I'm an [experienced](/resume/) leader, technologist, [speaker](/writing-talks/) and [award-winning](/awards/) journalist.
+Hi, I’m Brian Boyer.
 
-And I’m looking for kind, thoughtful, mission-driven people who are working to make the world better. Need advice, training or a temporary teammate? I'll come to you! But I'm a dad most of the time, so I max out at half-time work, and will be remote.
+I started as a programmer and got into journalism as my second career. After several years working as an editor in large/national newsrooms, I found my calling **building better products** with small, (usually) local, nonprofit news organizations.
 
-Read on to learn what I can do for you.
+## What’s that like?
 
-(Already sold? [Jump to the end](#contact)!)
+I’ve helped teams…
 
-## Why hire me?
+- Create, plan and execute a product strategy
+- Improve their website user experience
+- Migrate to a new content management system
+- Grow their email list, and send better newsletters and fundraising appeals
+- Set up analytics and measure success
 
-I’ve worn a lot of hats in my [career](/resume/): technologist, journalist, designer, data-wrangler, project manager, and product owner, to name a few. Those are very different jobs, but the through-line — and secret to my success — is that I care deeply about teams.
+Being a product leader means that I’m a generalist, though I’m still a software developer at heart. And I spent many years working in data journalism, so I’m a nerd for the numbers.
 
-Teams kick ass when we...
-- Work selflessly (not tirelessly) and care for each other.
-- Question dogma, test our assumptions, and value humility and curiosity.
-- Build an inclusive workplace, and a team that represents our audience.
-- Know our values — *why* we do what we do, not just *what* or *how*.
-- Set goals that align with our mission, communicate them clearly and passionately, prioritize rigorously, and measure success every day.
-- Lead as servants. Leadership is not control — it's support.
+My newsroom teams were small, but we consistently punched above our weight, because we worked together effectively, and always put the audience’s needs first. Nowadays, **my mission is to teach those skills and leave your team smarter, happier and more powerful.**
 
-## What can I do for you?
-For the last few years, I've been an independent consultant, helping news organizations by building better products and processes, usually in the interest of succeeding at membership. Sometimes I'm a coach, other times I get more hands-on.
+So what do you get when you work with me? Coaching, teamwork, data-driven strategy, user-centered design, and, among other things, the best damned spreadsheets you’ve ever seen. :)
 
-I'm sort of a generalist, but with areas of deep expertise. Here's a handful of the things that we might work on together.
+## How might we work together?
 
-### Build a membership-powered organization
-I spent two years building successful membership programs for [Denverite](https://denverite.com), [Billy Penn](https://billypenn.com) and [The Incline](https://theincline.com). And more recently as a consultant/coach, I've helped many other newsrooms in their membership efforts. It's tempting to think of this as a *technical* problem — CRMs and payment processing can be tricky — but it's really a *human* problem. The real challenge is that your organization must learn to act differently.
+My joke is that I’m your friendly, neighborhood Chief Product Officer. But most small newsrooms can’t afford (or make good use of) a full-time product nerd. So I usually work on contract, short- or long-term, and always part time.
 
-And, crucially, *online* membership is really different from how you'd do it on, say, the radio or TV.
-
-I can teach you how to succeed at membership on the internet — from the values you must embrace, to how you communicate those values to your audience. Plus: All the nitty-gritty details of product design, vendors and tools, email marketing, and measuring success.
-
-### Develop a user-centered product strategy
-There’s a thing about products that should be obvious, but that we regularly fail at. **We design products to serve the needs of our audience.** I can help you better understand those needs, facilitate design exercises with your team, and develop a product strategy.
-
-We'll kill our pre-conceived notions (and internal politics) and come up with a product that works for your audience first. Also — this is fun!
-
-### Lead your technology efforts
-I've led teams of developers and designers for most of my career, at startups and well-established companies. (Check my [resume](/resume/) for the details.) We've built products, analyzed and visualized data, created [award-winning](/awards/) visual journalism, and lots more.
-
-I can help you consider your product/design/technical goals and support a happy team in achieving them!
-
-### Set goals and measure success
-Like the person said, "[What gets measured, gets done.](https://thecarebot.github.io/Why-should-I-Carebot/)" If the metrics don’t align with your goals, your team will make poor choices. So, you must be extremely intentional when deciding what to measure.
-
-And before that, you must first decide — and clearly communicate — what you’re trying to achieve. I can help you articulate your goals, design metrics, and implement goal-tracking processes that will aim your team towards a common cause.
-
-### Implement processes for happiness and productivity
-Work is hard. But it's usually hard for *all the wrong reasons*. If you've got a great mission and great people, that's great! But if you've got poor process, it doesn't matter. Even the most talented people fail when they're managed poorly. I can help you implement processes that will reduce friction, increase productivity, and create a happier and more inclusive workplace.
-
-### Smell bullshit
-I’ve evaluated hundreds (thousands?) of tools, most of which stunk. As a hiring manager, awards judge, grant judge and vendor sniffer, I’ve developed a keen sense for what’s crap, and what tools (and teams!) are awesome.
-
-If you need help deciding on a technology stack, evaluating a RFP, hiring a consulting firm, or awarding grantees — hit me up! I can help you understand the problem you’re trying to solve, and choose the best path to solve it.
-
-## How do we do this?
-If you’re a news organization, non-profit, or other mission-driven organization, and if you care about building a thoughtful, inclusive, kind workplace, I’d be excited to talk with you about...
-
-### Consulting & contract work
-We could do a one-day workshop, a multi-week consulting project, or part-time contract work. Let's talk through your needs first and we can design something that works for your team, and your budget.
-
-### A part-time leadership role
-You might be seeking a Head of Product, VP Audience, Membership Director, General Manager, CTO/COO, Managing Editor, or Publisher. But I'm only available part-time, cuz the rest of my day I'm a dad.
+That works out for everyone, because the rest of the day is for cooking and taking care of my kid.
