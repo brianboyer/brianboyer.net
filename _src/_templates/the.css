@@ -153,6 +153,11 @@ footer p#contact {
   transform: rotate(-11deg);
 }
 
+footer p#socials {
+  text-align: right;
+  font-style: italic;
+}
+
 footer p#copyright {
   text-align: right;
 }
