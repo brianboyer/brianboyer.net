@@ -141,19 +141,11 @@ ul li {
   font-size: 4.4em;
   font-weight: 100;
   margin-left: -0.07em;
+  line-height: 1em;
 }
 
 #awards h2 {
   margin-bottom: 0;
-}
-
-#awards ul {
-  padding-left: 0;
-  margin-top: 0;
-}
-
-#awards ul li {
-  list-style-type: none;
 }
 
 footer p#contact {

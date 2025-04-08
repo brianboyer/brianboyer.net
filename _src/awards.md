@@ -8,7 +8,7 @@ description: "I don’t care much about awards. But in case you’re interested.
 
 I don’t care much about awards. They measure if you’ve impressed your peers, not your audience. But in case you’re interested...
 
-None of the works below were made by any one person — certainly not by myself alone. What follows is a list of award-winning projects I edited, designed, reported, coded, or was otherwise closely involved with.
+*None of the works below were made by any one person — certainly not by myself alone. What follows is a list of award-winning projects I edited, designed, reported, coded, or was otherwise closely involved with.*
 
 <figure>
   <img src="" alt=""/>
