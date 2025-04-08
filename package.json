@@ -1,10 +1,7 @@
 {
   "name": "brianboyer.net",
   "version": "0.0.2",
-  "scripts": {
-    "build": "npx @11ty/eleventy"
-  },
-  "dependencies": {
+  "devDependencies": {
     "@11ty/eleventy": "^3.0.0"
   }
 }
