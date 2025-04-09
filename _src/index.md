@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: "Hi, I'm Brian Boyer."
-description: "I’m looking for kind, thoughtful, mission-driven people who are working to make the world better."
+title: "Hi, I’m Brian Boyer."
+description: "Let’s work together!"
 ---
 # Let’s work together
 
