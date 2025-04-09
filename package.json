@@ -2,7 +2,8 @@
   "name": "brianboyer.net",
   "version": "0.0.2",
   "scripts": {
-    "build": "npx @11ty/eleventy"
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0"
