@@ -1,7 +1,7 @@
 ---
 title: "The right lesson to learn from Substack"
 description: "It's not that newsletters are magic!"
-date: "2025-07-04"
+date: "2025-07-07"
 ---
 
 *(If you clicked this post looking for an alternative to Substack, try [Ghost](https://ghost.org/). I use it for my little [bean blog](https://beantips.com/), and have been quite pleased. I've also heard that [Buttondown](https://buttondown.com/) is nice, but haven't tried it.)*
