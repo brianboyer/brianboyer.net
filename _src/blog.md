@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: "TKTK title"
-description: "TKTK description"
+title: "Blog"
+description: "New website, new blog."
 ---
 
 <h1>Blog</h1>
