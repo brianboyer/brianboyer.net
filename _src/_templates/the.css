@@ -38,6 +38,10 @@ nav {
   text-transform: lowercase;
 }
 
+time {
+  font-style: italic;
+}
+
 footer p#contact {
   font-size: 5vw;
   font-family: 'Gravitas One', serif;
@@ -121,6 +125,10 @@ header nav ul li {
 main {
   clear: left;
   padding-top: 3em;
+}
+
+article {
+  margin-top: 1em;
 }
 
 p {

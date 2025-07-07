@@ -66,6 +66,11 @@
           {% else %}
           <li><a href="/awards/">Awards</a></li>
           {% endif %}
+          {% if page.fileSlug == 'blog' %}
+          <li>Blog</li>
+          {% else %}
+          <li><a href="/blog/">Blog</a></li>
+          {% endif %}
           <!-- {% if page.fileSlug == 'projects' %}
           <li>Projects 🫘</li>
           {% else %}
